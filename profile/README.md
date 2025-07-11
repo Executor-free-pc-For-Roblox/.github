@@ -54,13 +54,6 @@ This **Roblox Executor for PC** is a lightweight and functional Lua script assis
 
 ---
 
-## 🖼
-
-![Executor Interface](https://github.com/falafox2020/Swift/raw/main/assets/Swift.jpg)  
-
-
----
-
 ## 🔍 SEO Keywords
 
 roblox pc executor, roblox lua script executor, roblox script launcher, roblox executor gui, lua executor for roblox pc, roblox attach tool, roblox modding utility, external executor roblox, roblox script runner, roblox safe script assistant
